@@ -1,0 +1,14 @@
+C:\Projetos\BrunSkerLocacaoImoveis\BrunSkerLocacaoImoveis\bin\Debug\BrunSkerLocacaoImoveis.exe.config
+C:\Projetos\BrunSkerLocacaoImoveis\BrunSkerLocacaoImoveis\bin\Debug\BrunSkerLocacaoImoveis.exe
+C:\Projetos\BrunSkerLocacaoImoveis\BrunSkerLocacaoImoveis\bin\Debug\BrunSkerLocacaoImoveis.pdb
+C:\Projetos\BrunSkerLocacaoImoveis\BrunSkerLocacaoImoveis\obj\Debug\BrunSkerLocacaoImoveis.csproj.AssemblyReference.cache
+C:\Projetos\BrunSkerLocacaoImoveis\BrunSkerLocacaoImoveis\obj\Debug\BrunSkerLocacaoImoveis.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\BrunSkerLocacaoImoveis\BrunSkerLocacaoImoveis\obj\Debug\BrunSkerLocacaoImoveis.FrmMain.resources
+C:\Projetos\BrunSkerLocacaoImoveis\BrunSkerLocacaoImoveis\obj\Debug\BrunSkerLocacaoImoveis.Properties.Resources.resources
+C:\Projetos\BrunSkerLocacaoImoveis\BrunSkerLocacaoImoveis\obj\Debug\BrunSkerLocacaoImoveis.csproj.GenerateResource.cache
+C:\Projetos\BrunSkerLocacaoImoveis\BrunSkerLocacaoImoveis\obj\Debug\BrunSkerLocacaoImoveis.csproj.CoreCompileInputs.cache
+C:\Projetos\BrunSkerLocacaoImoveis\BrunSkerLocacaoImoveis\obj\Debug\BrunSkerLocacaoImoveis.exe
+C:\Projetos\BrunSkerLocacaoImoveis\BrunSkerLocacaoImoveis\obj\Debug\BrunSkerLocacaoImoveis.pdb
+C:\Projetos\BrunSkerLocacaoImoveis\BrunSkerLocacaoImoveis\bin\Debug\RestSharp.dll
+C:\Projetos\BrunSkerLocacaoImoveis\BrunSkerLocacaoImoveis\bin\Debug\RestSharp.xml
+C:\Projetos\BrunSkerLocacaoImoveis\BrunSkerLocacaoImoveis\obj\Debug\BrunSkerLocacaoImoveis.csproj.CopyComplete
